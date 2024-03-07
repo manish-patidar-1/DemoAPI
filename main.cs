@@ -8,4 +8,8 @@ namespace DemoAPI
     public void FeatureC(){
         Console.WriteLine("Added Feature-c");
     }
+
+    public void Features(){
+        Console.WriteLine("Delete all others feature")
+    }
 }
